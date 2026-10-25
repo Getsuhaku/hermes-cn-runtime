@@ -1,0 +1,24 @@
+{
+  "version": "0.9.0",
+  "channel": "stable",
+  "runtime": {
+    "kernelVersion": "0.21.0",
+    "runtimeVersion": "0.21.0-cn.19"
+  },
+  "manifest": {
+    "schemaVersion": 2,
+    "channel": "stable",
+    "runtimeVersion": "0.21.0-cn.19",
+    "kernelVersion": "0.21.0",
+    "runtimeFlavor": "cn",
+    "runtimeRevision": 19,
+    "platform": "win32",
+    "arch": "x64",
+    "artifactUrl": "https://github.com/Getsuhaku/hermes-cn-runtime/releases/download/runtime-v0.21.0-cn.19/hermes-agent-cn-runtime-win32-x64.zip",
+    "sha256": "312277ade01e6e4ec82bfa4c48a0134da388411cd5cf1b202001ff8a254b148a",
+    "sourceRepo": "Eynzof/Hermes-CN-Core",
+    "sourceCommit": "6338251",
+    "createdAt": "2026-10-25T16:49:50Z",
+    "signature": "Y1Nm7JNQpQM6eUX1toSe0Gd8pqtwT1O1urk1SqnOqZyLBJcd7jnN9NWcvEBDQ5+pCVX1NN9sp4tGqNDF0geAAA=="
+  }
+}
